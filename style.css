@@ -1,6 +1,6 @@
 h1{
     display: block;
-    font-size: large;
+    font-size: x-large;
     font-weight: bold;
     color: #ffffff;
 
@@ -14,8 +14,8 @@ body{
 }
 
 img{
-    width: 300px;
-    width: 300px;
+    width: 150px;
+    width: 150px;
     border-radius: 50%;
     object-fit: cover;
     border: 5px solid #ffffff;

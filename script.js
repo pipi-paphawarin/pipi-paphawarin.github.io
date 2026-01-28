@@ -1,3 +1,3 @@
 function showAlert(){
-    alert("Alert Message")
+    alert("Paphawarin Siripapha สาขาวิชาฟิสิกส์ไอโอที (สองปริญญา)")
 }
